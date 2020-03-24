@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+echo "This file will be executed BEFORE"
+echo "The user has removed the repo From the system."

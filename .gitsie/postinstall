@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+echo "This file will be executed AFTER"
+echo "The user has installed the repo somewhere."

@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+
+echo "This file will be executed once the"
+echo "User has retrieved the repository using gitsie."
+echo ""
+echo "Do whatever you feel like. Thank the user, inform"
+echo "The user about the dependencies, or install"
+echo "the dependencies Right now (using this script)"
