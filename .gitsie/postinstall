@@ -1,3 +1,8 @@
 #!/usr/bin/env sh
 echo "This file will be executed AFTER"
 echo "The user has installed the repo somewhere."
+
+echo "The first argument passed to this script is the location"
+echo "where the user is installing your package."
+echo "dest:"
+echo $1
